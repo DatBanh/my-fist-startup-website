@@ -10,12 +10,12 @@ body {
     background-size: cover;
   }
   h1{
-    font-size: 4rem;
+    font-size: 4.5rem;
     color: #e2dbdb;
   }
 
   hr {
-    max-width: 65px;
+    max-width: 69px;
     border-width: 3px;
     border-color: #F05F44; 
     
@@ -26,7 +26,7 @@ body {
     height: 15rem;
   }
 .btn{
-    font-weight: 700;
+    font-weight: 800;
     border-radius: 300px;
 }
 .btn-xl{
