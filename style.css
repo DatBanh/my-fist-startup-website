@@ -10,12 +10,12 @@ body {
     background-size: cover;
   }
   h1{
-    font-size: 4.5rem;
+    font-size: 5rem;
     color: #e2dbdb;
   }
 
   hr {
-    max-width: 69px;
+    max-width: 70px;
     border-width: 3px;
     border-color: #F05F44; 
     
