@@ -23,11 +23,11 @@ body {
   
   
   .buffer{
-    height: 15rem;
+    height: 16rem;
   }
 .btn{
-    font-weight: 800;
-    border-radius: 300px;
+    font-weight: 810;
+    border-radius: 302px;
 }
 .btn-xl{
     padding: 2rem 4rem;
